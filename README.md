@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning TensorFlow
 
-- 📫 You can reach me in TG [@PopeYanG](https://t.me/popeyang)
+- 📫 You can reach me in TG [@PopeYang](https://t.me/popeyang)
 
 <!---
 PopeYang/PopeYang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
