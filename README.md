@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PopeYang
 
-- 🌱 I’m currently learning TensorFlow
+- 🌱 I’m currently learning Pyhton
 
 - 📫 You can reach me in TG [@PopeYang](https://t.me/popeyang)
 
